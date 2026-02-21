@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-macro-edge-framework-scale-dda",
+  "version": "1.0.0",
+  "description": "API gateway and routing service",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "macro-edge-framework-scale-dda"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-macro-edge-framework-scale-dda.git"
+  }
+}
